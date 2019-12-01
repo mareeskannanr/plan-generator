@@ -9,10 +9,10 @@ Docker
 
 # Setup
 
-Ensure docker installed in your machine
-Pull this repository and goto the application folder
-Run **docker-compose up** and wait untill application get started
-Goto **http://localhost:8080/swagger-ui.html** and check plan-generator service
+Ensure docker installed in your machine<br>
+Pull this repository and goto the application folder<br>
+Run **docker-compose up** and wait untill application get started<br>
+Goto **http://localhost:8080/swagger-ui.html** and check plan-generator service functionality<br>
 
 Sample:
 
